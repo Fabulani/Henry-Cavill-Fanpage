@@ -1,0 +1,44 @@
+html {
+    font-size: 16px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color:white;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: black;
+    text-align: center;
+  }
+
+  h2 {
+      text-align: center;
+  }
+  
+  p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  #txt-goals {
+      text-align: center;
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+button {
+    display: block;
+    margin: 0 auto;
+}
